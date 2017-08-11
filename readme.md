@@ -1,3 +1,8 @@
-Short Link
+#Short Link
 
-This is a link shortener build from Meteor and React
+This is a link shortener built on Meteor and React
+
+
+## Authors
+
+Supachai Thongprasit
